@@ -12,3 +12,12 @@ h1{
 h2{
   color: orange ;
 }
+#message{
+  -webkit-animation-name: message; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s;
+  animation-name: message;
+  font-size: 60px;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+}
