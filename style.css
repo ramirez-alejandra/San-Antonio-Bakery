@@ -21,3 +21,8 @@ h2{
   animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
 }
+#rosca{
+  height: 25%;
+  width: auto;
+  margin: auto;
+}
